@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham !</h1>
 <h3 align="center">A passionate Data Science/ML enthusiast with a background of a Frontend Developer. I am currently final year undergrad at Jaypee University of Information Technology.</h3>
 
-- 🔭 I’m currently working on **integrating my placement predciton model onto a website using angularJS.**
+- 🔭 I’m currently working on **creating web apps using Flask API**
 
 - 🌱 I’m currently learning **advanced frontend development and Natural Language Processing.**
 
 - 👯 I’m looking to collaborate on **any projects with the domain of Data Science, ML or Frontend Web Development.**
-
-- 🤝 I’m looking for **internship opportunities starting from June,2023.**
 
 - 📫 How to reach me **sakshamsahore@gmail.com**
 
