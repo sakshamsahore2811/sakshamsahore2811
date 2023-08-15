@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating web apps using Flask API**
 
-- 🌱 I’m currently learning **advanced frontend development and Natural Language Processing.**
+- 🌱 I’m currently learning **web development and Natural Language Processing.**
 
 - 👯 I’m looking to collaborate on **any projects with the domain of Data Science, ML or Frontend Web Development.**
 
