@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on **any projects with the domain of Data Science, ML or Frontend Web Development.**
 
 - 📫 How to reach me **sakshamsahore@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+![HitCount](http://hits.dwyl.com/Profile Name/Repo Name.svg)
 <p align="left">
 </p>
 
