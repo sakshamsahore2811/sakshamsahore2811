@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham !</h1>
-<h3 align="center">A passionate Data Science/ML enthusiast and Web Developer. I am currently final year undergrad at Jaypee University of Information Technology.</h3>
+<h3 align="center">A passionate ML enthusiast and Web Developer. I am currently final year undergrad at Jaypee University of Information Technology.</h3>
 
 - 🔭 I’m currently working on **creating web apps using Flask API**
 
